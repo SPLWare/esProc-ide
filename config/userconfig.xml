@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<RAQSOFT>
+<DATASOURCE/>
+<PARAM/>
+<FUNCTIONS>
+<DataSet/>
+<Normal/>
+</FUNCTIONS>
+<OPTIONS bAdjustNoteCell="true" bAutoBackup="true" bAutoCleanOutput="false" bAutoConnect="false" bAutoExcelServer="false" bAutoOpen="false" bAutoSave="false" bAutoShowTip="true" bAutoSizeRowHeight="false" bAutoTrimChar0="true" bBold="false" bDispOutCell="true" bExcelXllType="true" bFileTreeDemo="true" bFuncNotice="true" bGirdLine="true" bIdeConsole="true" bItalic="false" bMultiLineExpEditor="true" bNoticeExpiration="true" bSNPrompt="true" bShowDBStruct="true" bShowHttpConfig="true" bStepLastLocation="false" bTextEditorLineWrap="false" bUnderline="false" bUseUndo="true" bViewWinList="true" bWindowSize="false" fColWidth="150.0" fRowHeight="25.0" fileDirectory="E:\SPL" iAutoSaveMinutes="10" iBreakPointBColor="-65281" iColCount="5" iConnectTimeout="10" iConsoleLocation="0" iConstBColor="-1" iConstFColor="-65281" iDBRecordCount="-1" iFileLocation="-1" iFontSize="12" iHAlign="0" iIndent="3" iLocale="4" iLookAndFeel="1" iNValueBColor="-1" iNValueFColor="-16777216" iNoteBColor="-1" iNoteFColor="-13395712" iRowCount="20" iSequenceDispMembers="3" iUndoCount="20" iVAlign="8" iValueBColor="-103" iValueFColor="-16777216" sAutoOpenFileNames="" sBackupDirectory="backup" sFileTreeExpand="E:\SPL\scudata\esProc\bin\..\..\..\scudata\esProc\demo\en,E:\SPL\scudata\esProc\bin\..\..\..\scudata\esProc\demo\en" sFontName="Dialog" sLogFileName=""/>
+</RAQSOFT>
